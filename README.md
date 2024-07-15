@@ -1,7 +1,8 @@
 
 # Gym Shark App
 
-I designed the screen layout of the Gym Shark App using Flutter. This app helps users manage and track their daily workout routines.
+I designed the screen layout of the Gym Shark App using Flutter. 
+This app helps users manage and track their daily workout routines.
 
 <img src="https://github.com/user-attachments/assets/a500e46c-b927-40b9-aea7-bc00efc81304" alt="Screenshot_1720984095" width="300"/>
 
